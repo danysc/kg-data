@@ -1,2 +1,2 @@
-# kg-data
+# kgdata
 Dataset from Kaggle
